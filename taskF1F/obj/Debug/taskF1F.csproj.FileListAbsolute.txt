@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.4\exe204_Le_ThuyHang\taskF1F\obj\Debug\taskF1F.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.4\exe204_Le_ThuyHang\taskF1F\bin\Debug\taskF1F.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.4\exe204_Le_ThuyHang\taskF1F\bin\Debug\taskF1F.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.4\exe204_Le_ThuyHang\taskF1F\bin\Debug\taskF1F.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.4\exe204_Le_ThuyHang\taskF1F\obj\Debug\taskF1F.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.4\exe204_Le_ThuyHang\taskF1F\obj\Debug\taskF1F.pdb
